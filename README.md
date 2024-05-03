@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me at ibgarc02t@gmail.com
 
-- He hecho unos cambiosss
+- He hecho unos cambios y creo que ahora si que los voy a ver
 
 <!---
 igvalle/igvalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
