@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igvalle
+- 👋 Hi, I’m Ibai
 - 👀 I’m interested in data science and business intelligence
 - 🌱 I’m currently learning Python, R, SQL, PowerBI and GitHub
 - 💞️ I’m looking to collaborate on 
